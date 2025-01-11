@@ -1,0 +1,4 @@
+database:
+  path: local_database/vector_store.db
+model:
+  url: http://localhost:11434/api/generate

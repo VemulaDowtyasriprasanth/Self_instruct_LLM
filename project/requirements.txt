@@ -1,0 +1,9 @@
+# Python dependencies
+numpy
+pandas
+openai
+sentence-transformers
+gradio
+sqlite3
+pyyaml
+python-dotenv

@@ -1,0 +1,6 @@
+env_name/
+virtual_llm/
+*.lib
+*.dll
+__pycache__/
+*.log
